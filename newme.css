@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header-a{
+    background-image: url(./new-year-new-me-main/images/banner/banner1.png);
+    margin-bottom: 2%;
+    background-repeat: no-repeat;
+    background-color: rgb(102, 105, 105);
+   
+     
+}
+nav{
+    width: 100%;
+    height: 0%;
+    padding-top: 200px;
+}
+
+.nav-title{
+    font-weight:bold;
+    font-size: 56px;
+    text-align: right;
+    margin-left: 60%;
+    padding-right: 120px;
+    
+}
+.p-title{
+    text-align: right;
+    margin-left: 55%;
+    padding-right: 120px;
+    padding-bottom: 50px;
+}
+.btn-title{
+    margin-left: 70%;
+    padding: 27px 70px;
+    background-color: chocolate;
+    border-radius: 10px;
+}
+
+
+.my-bg{
+    display: flex;
+    background-image: url(./new-year-new-me-main/images/person.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+
+}
+.my{
+    float: right;
+    margin-left: 49%;
+    margin-top: 70px;
+    margin-bottom: 230px;
+    padding-right: 20%;
+    padding-top: 195px;
+    padding-bottom: 0%;
+
+}
+.my-failures{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.syl-title{
+    display: flex;
+    gap: 15px;
+    justify-content: space-around;
+}
+
+.sub-title{
+    align-items: center;
+    background-color: rgb(243, 240, 245);
+    padding: 50px 50px;
+}
+.h2{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+
+}
+.p2{
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+.bg-bg{
+    margin: 5% 12%;
+    background-image: url(./new-year-new-me-main/images/watch.png);
+    background-repeat: no-repeat;
+}
+.aw-layw{
+    padding: 30px 20px;
+    background-image: url(./new-year-new-me-main/images/gradient2.png);
+    background-repeat: no-repeat;
+}
+
+.h22{
+    font-size: 46px;
+    font-weight: bold;
+    padding: 10px ;
+    padding-right: 567px;
+    color:white;
+}
+.btn-title-a{
+    padding: 20px 60px;
+    font-size: 20px;
+    color: white;
+    background-color: chocolate;
+    border-radius: 10px;
+}
+
+.footer-style{
+    display: flex;
+    background-color: black;
+}
+.footer-title{
+    color: white;
+    padding-top: 150px;
+    padding-left: 140px;
+    padding-bottom: 100px;
+    padding-right: 600px;
+
+}.footer-h1{
+    font-size: 65px;
+    font-weight: bold;
+    padding-bottom: 20p;
+}
+.footer-p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.footer-styl{
+    justify-content: space-around;
+    
+    color: white;
+    padding-right: 140px;
+    padding-top: 150px;
+}
+.footer-susc{
+    padding: 30px 70px;
+    color: chocolate;
+    font-size: 20px;
+    border-radius: 5px;
+    
+}
+.footer-btn{
+    font-size: 20px;
+    padding: 25px 55px;
+    background-color: chocolate;
+    border-radius: 10px;
+}
